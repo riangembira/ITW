@@ -1,0 +1,26 @@
+body {
+	background-color:  khaki;
+}
+h1 {
+	text-align:   center;
+	font-family: "comic sans ms";
+	color: darkblue;
+}
+h4 {
+	text-align: center;
+	font-family: arial;
+	font-style: italic;
+}
+h3 {
+	text-align: center;
+	font-variant: small-caps;
+}
+p {
+	text-indent: 50px;
+	font-family: verdana;
+}
+.warnaMerah { color: red; }
+}
+#p2 {
+	line-height: 40px;
+}

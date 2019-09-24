@@ -1,0 +1,71 @@
+html{
+	position: relative;
+}
+body{
+	margin-top: 60px;
+	background-color: grey;
+	margin-bottom: 50px;
+}
+.container{
+	background-color: white;
+}
+hr{
+	border: 2px solid #000;
+}
+.thumbnail {
+	width: 174px;
+}
+.thumbnail img{
+	width: 119px;
+	filter: grayscale(80%);
+}
+.thumbnail img:hover{
+	filter: none;
+}
+.clear {
+	clear: both;
+}
+footer{
+	position: absolute;
+	bottom:0;
+	width: 100%;
+	height: 50px;
+	background-color: #333;
+	color: white;
+	text-align: center;
+}
+footer p{
+	padding:14px;
+}
+
+.btn{
+	margin-left: 760px;
+	margin-bottom: 100px;
+}
+.thumbnail p{
+	text-align: center;
+	text-decoration: none;
+}
+.simple {
+    margin: 0;
+    padding: 12px;
+    width: 125px;
+}
+
+.simple li {
+    background: #333;
+    border-bottom: 6px solid #FFF;
+    list-style: none;
+    padding: 0.5em;
+    text-align: center;
+    width: 100px;
+}
+.simple li:hover {
+    background: gray;
+}
+
+.simple li a {
+    color: white;
+    display: block;
+    text-decoration: none;
+}
